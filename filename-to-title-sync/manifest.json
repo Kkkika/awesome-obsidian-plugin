@@ -1,0 +1,10 @@
+{
+	"id": "filename-to-title-sync",
+	"name": "文件名与标题同步",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "自动将文件名同步到Frontmatter中的标题{title}字段。",
+	"author": "kika",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

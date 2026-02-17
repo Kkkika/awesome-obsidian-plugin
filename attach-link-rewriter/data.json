@@ -1,0 +1,8 @@
+{
+  "scope": "folder",
+  "path": "/",
+  "op": "none",
+  "template": "./../{{docName}}/{{attName}}",
+  "watch": true,
+  "whitelist": []
+}

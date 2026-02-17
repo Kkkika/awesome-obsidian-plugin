@@ -1,0 +1,9 @@
+{
+  "id": "unreferenced-attachments",
+  "name": "未引用附件扫描",
+  "version": "0.1.0",
+  "minAppVersion": "1.2.0",
+  "description": "列出未被 Markdown 引用的本地附件（零构建，命令面板触发）。",
+  "author": "kika",
+  "isDesktopOnly": false
+}

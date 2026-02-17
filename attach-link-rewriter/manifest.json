@@ -1,0 +1,9 @@
+{
+  "id": "attach-link-rewriter",
+  "name": "附件链接重写器",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "批量修改附件链接路径，支持自定义模板与移动/复制附件",
+  "author": "kika",
+  "isDesktopOnly": false
+}
