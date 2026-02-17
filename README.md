@@ -3,7 +3,6 @@
  一句话介绍：零构建的 Obsidian 小工具合集，聚焦「文件与附件治理」场景。
  
  - 作者：kika
- - 仓库：<https://github.com/Kkkika/awesome-obsidian-plugin>
  - 适配：Obsidian ≥ 1.2.0（具体见各插件清单）
  
  ## 项目概览
